@@ -1,0 +1,70 @@
+# Compiled files
+*.dll
+*.exe
+*.pdb
+
+# Dependency directories
+packages/
+node_modules/
+
+# User-specific files
+*.userprefs
+*.suo
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio Code specific files
+.vscode/
+*.code-workspace
+
+# Build tooling
+_msbuild/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Resharper
+_ReSharper*/
+
+# NuGet
+*.nuget.props
+*.nuget.targets
+
+# MSTest
+TestResults/
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+
+# Xamarin
+*.app
+*.ipa
+*.apk
+*.aab
+
+# Unity
+/Assets/AssetStoreTools*
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio 2019
+/.vs/
